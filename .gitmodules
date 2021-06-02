@@ -6,6 +6,3 @@
 	path = themes/jane
 	url = https://github.com/xianmin/hugo-theme-jane.git
 	branch = master
-[submodule "themes/hugo-tanka"]
-	path = themes/hugo-tanka
-	url = https://github.com/nanxstats/hugo-tanka.git
